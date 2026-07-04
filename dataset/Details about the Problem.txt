@@ -1,0 +1,60 @@
+COVID-19 and its impact on education, social life and mental health of students: 
+
+In this study, a cross-sectional survey is conducted with a sample size of 1182 students of different age groups 
+from different educational institutions in Delhi National Capital Region (NCR).
+
+The client has shared some requirements to be developed - 
+
+1. Dashboard Overview
+Create a dashboard showing key insights:
+Average time spent on online classes, self-study, and fitness.
+Most preferred social media platform.
+Average rating of online class experience.
+
+2. Age-wise Analysis
+Develop a report showing:
+Age group distribution.
+Time spent on online classes and self-study by age group.
+Health issues during lockdown segmented by age.
+
+3. Geographical Insights
+Create a map visualization:
+Highlight the region-wise average time spent on fitness, social media, and sleep.
+Show the region-wise rating of online class experience.
+
+4. Correlation Exploration
+Build scatter plots to analyze:
+Correlation between time spent on fitness and change in weight.
+Correlation between time spent on sleep and health issues.
+
+5. Family Connection Analysis
+Create a report showing:
+Percentage of respondents who feel more connected to family and close friends.
+Breakdown of this metric by region and age group.
+
+6. Stress Busters Analysis
+Create a bar chart to:
+Display the most common stress busters during the lockdown.
+Show their popularity across different age groups.
+
+7. Time Utilization Overview
+Develop a stacked column chart:
+Show the average distribution of time among online classes, self-study, fitness, social media, and TV.
+
+8. Social Media Preferences
+Build a pie chart or bar chart:
+Highlight the preferred social media platforms.
+Compare time spent on social media by platform.
+
+9. Health and Lifestyle Changes
+Create a report showing:
+Number of meals per day vs. change in weight.
+Proportion of respondents who experienced health issues during lockdown.
+
+10. What People Miss the Most
+Build a word cloud or bar chart:
+Display the most missed activities or things during the lockdown.
+Segment the results by age group and region.
+
+The dashaboard should be clean with proper formatting and color.
+
